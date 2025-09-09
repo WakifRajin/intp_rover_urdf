@@ -1,1 +1,1 @@
-# intp_rover_urdf
+package_name = 'robot_description'
